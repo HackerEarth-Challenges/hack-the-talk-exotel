@@ -7,8 +7,8 @@ Refer to the challenge here - https://www.hackerearth.com/sprints/hack-the-talk/
 
 The submission must be in a tar.gz format. It should have a run.sh in the top
 directory that will take care of compilation, creating the executable and
-running your code. Your code must read all the input files from the current
-directory. The Input File will have a list of audio files like:
+running your code. Your code must read an input file - input.txt.
+The Input File will have a list of audio files like:
 
  - one.mp3
  - two.mp3
